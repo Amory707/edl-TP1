@@ -54,7 +54,7 @@ describe('countByStatus', () => {
     });
   });
 });
-q
+
 
 describe('completionRate', () => {
 
